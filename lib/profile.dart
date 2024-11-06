@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';proyecto_final
+import 'package:flutter/material.dart';
 
 class Profile extends StatefulWidget {
   const Profile({super.key});
